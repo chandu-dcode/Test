@@ -1,17 +1,16 @@
-""{
-""[Demployee":[
 {
-[A[A[C[C[C[C[C[C[C[C[Cs[B[B[D[D[D[D[D[D[D[D[D""[Dname[C[D":""[DShyam",
-""[Dage[":24
-},
-{
-""[Dname":""[DJai",
-""[Dage[":24
-}
-[A[C,
-{
-""[Dname":""[DMike",
-""[Dage[":26
-}
+"employees":[
+	{
+		"name":"Shyam",
+		"age":24
+	},
+	{
+		"name":"Tarun",
+		"age":25
+	},
+	{
+		"name":"Mike",
+		"age":26
+	}
 ]
 }
